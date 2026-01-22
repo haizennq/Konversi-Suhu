@@ -35,7 +35,7 @@
             </tr>
         </table>
         <hr>
-        <form action="" method="GET">
+        <form method="GET">
             <table>
                 <tr>
                     <td>Celcius</td>
@@ -69,4 +69,5 @@
         </form>
 
     </body>
+
 </html>
